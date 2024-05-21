@@ -31,7 +31,7 @@ author:
   arxiv            :
   googlescholar    : 
   impactstory      :
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-3449-8458"
+  orcid            : "my-orcid?orcid=0009-0000-3449-8458"
   semantic         :
   pubmed           : 
   researchgate     :
@@ -40,7 +40,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "https://github.com/PedroChumpitaz"
+  github           : "PedroChumpitaz"
   kaggle           :
   stackoverflow    :
 
@@ -54,7 +54,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pedrochumpitaz/"
+  linkedin         : "pedrochumpitaz"
   mastodon         :
   medium           :
   pinterest        :
@@ -67,7 +67,7 @@ author:
   weibo            :
   wikipedia        :
   xing             :
-  youtube          : "https://www.youtube.com/@PedroChumpitaz-Flores"
+  youtube          : "@PedroChumpitaz-Flores"
   zhihu            :
 
 # Site Settings
