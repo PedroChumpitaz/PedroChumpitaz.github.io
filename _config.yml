@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pedro Roberto Chumpitaz Flores"
+title                    : "Pedro Chumpitaz"
 title_separator          : "-"
-name                     : &name "Pedro Roberto Chumpitaz Flores"
+name                     : &name "Pedro Chumpitaz"
 description              : &description "IMSE PhD Student"
-url                      : https://academicpages.github.io
+url                      : https://PedroChumpitaz.github.io
 baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+repository               : "PedroChumpitaz/PedroChumpitaz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
