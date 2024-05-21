@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pedro Chumpitaz - Personal Academic Website"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
